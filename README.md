@@ -1,3 +1,5 @@
+阅读网址：https://zengsn.gitbooks.io/uml-experiment-guide/content/
+
 # 引言
 
 可以作为高年级本科实验教学指导书。
